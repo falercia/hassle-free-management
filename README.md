@@ -4,6 +4,8 @@
 
 **Português** · [English](#english)
 
+> Para ler os carrosséis sem precisar entender de GitHub, acesse o site da série em **[falercia.github.io/hassle-free-management](https://falercia.github.io/hassle-free-management/)**.
+
 Todo gestor enfrenta os mesmos problemas, a 1:1 que vira controle de ponto com café, o feedback que ninguém quer dar, a meta em risco que todo mundo vê e ninguém diz, a reunião cheia de gente que não precisava estar ali. Na maioria das vezes o problema não é falta de esforço, é falta de nome. Enquanto a situação não tem nome, ela parece questão de temperamento ou de falta de tempo. Quando ganha nome, passa a ter causa, régua e método.
 
 Este repositório reúne os carrosséis da série **Isso Tem Nome · Gestão Sem Complicação**, 71 temas de gestão e liderança traduzidos para qualquer pessoa entender e aplicar, sem jargão e sem teoria solta, sempre com uma analogia do dia a dia. Cada tema existe em português e em inglês.
@@ -48,6 +50,8 @@ Cada framework e cada teste tem nome próprio e nenhum se repete entre os posts.
 ## Como o repositório está organizado
 
 ```
+index.html               o site da série, publicado pelo GitHub Pages
+site/                    dados, miniaturas e imagens do site
 posts/
   NN - Tema/
     GSC-NN-Tema.pdf        carrossel em português
@@ -58,6 +62,8 @@ posts/
     caption-en.md          legenda do post no LinkedIn, inglês
     fonte/                 o HTML que gera o carrossel, nos dois idiomas
 ```
+
+Ao adicionar ou alterar um tema em `posts/`, rode `python3 site/build.py` na raiz do repositório para atualizar o índice e as miniaturas do site (requer Pillow).
 
 ## Como usar
 
@@ -161,6 +167,8 @@ As fontes IBM Plex embutidas nos arquivos HTML seguem a licença própria delas,
 
 [Português](#portugues) · **English**
 
+> To browse the carousels without dealing with GitHub, go to the series website at **[falercia.github.io/hassle-free-management](https://falercia.github.io/hassle-free-management/)**.
+
 Every manager runs into the same problems, the 1:1 that turns into a time clock with coffee, the feedback nobody wants to give, the goal at risk that everyone sees and nobody mentions, the meeting full of people who did not need to be there. Most of the time the problem is not lack of effort, it is lack of a name. While a situation has no name, it looks like a matter of temperament or lack of time. Once it has one, it gets a cause, a yardstick and a method.
 
 This repository collects the carousels from the **It Has a Name · Management Made Simple** series, 71 management and leadership topics made simple enough for anyone to understand and apply, no jargon and no loose theory, always with an everyday analogy. Every topic is available in English and in Portuguese.
@@ -205,6 +213,8 @@ Every framework and every test has its own name, and none of them repeats across
 ## How the repository is organized
 
 ```
+index.html               the series website, served by GitHub Pages
+site/                    website data, thumbnails and images
 posts/
   NN - Topic/
     GSC-NN-Topic.pdf       carousel in Portuguese
@@ -215,6 +225,8 @@ posts/
     caption-en.md          LinkedIn caption, English
     fonte/                 the HTML that renders the carousel, both languages
 ```
+
+When you add or change a topic in `posts/`, run `python3 site/build.py` from the repository root to refresh the website index and thumbnails (requires Pillow).
 
 Folder names are in Portuguese because the series was born in Portuguese, the index below gives the English topic for each one.
 
