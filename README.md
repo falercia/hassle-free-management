@@ -8,7 +8,7 @@
 
 Todo gestor enfrenta os mesmos problemas, a 1:1 que vira controle de ponto com café, o feedback que ninguém quer dar, a meta em risco que todo mundo vê e ninguém diz, a reunião cheia de gente que não precisava estar ali. Na maioria das vezes o problema não é falta de esforço, é falta de nome. Enquanto a situação não tem nome, ela parece questão de temperamento ou de falta de tempo. Quando ganha nome, passa a ter causa, régua e método.
 
-Este repositório reúne os carrosséis da série **Isso Tem Nome · Gestão Sem Complicação**, 71 temas de gestão e liderança traduzidos para qualquer pessoa entender e aplicar, sem jargão e sem teoria solta, sempre com uma analogia do dia a dia. Cada tema existe em português e em inglês.
+Este repositório reúne os carrosséis da série **Isso Tem Nome · Gestão Sem Complicação**, 74 temas de gestão e liderança traduzidos para qualquer pessoa entender e aplicar, sem jargão e sem teoria solta, sempre com uma analogia do dia a dia. Cada tema existe em português e em inglês.
 
 ## Para que serve
 
@@ -41,7 +41,7 @@ Cada framework e cada teste tem nome próprio e nenhum se repete entre os posts.
 |---|---|---|
 | 01 | Pessoas e Liderança | 22 |
 | 02 | Performance, Metas e Métricas | 10 |
-| 03 | Execução e Processos | 14 |
+| 03 | Execução e Processos | 17 |
 | 04 | Cultura e Comportamento | 8 |
 | 05 | Comunicação e Influência | 6 |
 | 06 | Tempo e Foco do Líder | 7 |
@@ -146,6 +146,9 @@ Ao adicionar ou alterar um tema em `posts/`, rode `python3 site/build.py` na rai
 | 69 | Rotina do Gestor | Tempo e Foco do Líder | [PDF](posts/69%20-%20Rotina%20do%20Gestor/GSC-69-RotinaDoGestor.pdf) |
 | 70 | Aprovação de Projeto | Execução e Processos | [PDF](posts/70%20-%20Aprovacao%20de%20Projeto/GSC-70-AprovacaoDeProjeto.pdf) |
 | 71 | Quem Entra na Reunião | Execução e Processos | [PDF](posts/71%20-%20Quem%20Entra%20na%20Reuniao/GSC-71-QuemEntraNaReuniao.pdf) |
+| 72 | Reunião Operacional | Execução e Processos | [PDF](posts/72%20-%20Reuniao%20Operacional/GSC-72-ReuniaoOperacional.pdf) |
+| 73 | Reunião Tática | Execução e Processos | [PDF](posts/73%20-%20Reuniao%20Tatica/GSC-73-ReuniaoTatica.pdf) |
+| 74 | Reunião Estratégica | Execução e Processos | [PDF](posts/74%20-%20Reuniao%20Estrategica/GSC-74-ReuniaoEstrategica.pdf) |
 
 ## Autor
 
@@ -171,7 +174,7 @@ As fontes IBM Plex embutidas nos arquivos HTML seguem a licença própria delas,
 
 Every manager runs into the same problems, the 1:1 that turns into a time clock with coffee, the feedback nobody wants to give, the goal at risk that everyone sees and nobody mentions, the meeting full of people who did not need to be there. Most of the time the problem is not lack of effort, it is lack of a name. While a situation has no name, it looks like a matter of temperament or lack of time. Once it has one, it gets a cause, a yardstick and a method.
 
-This repository collects the carousels from the **It Has a Name · Management Made Simple** series, 71 management and leadership topics made simple enough for anyone to understand and apply, no jargon and no loose theory, always with an everyday analogy. Every topic is available in English and in Portuguese.
+This repository collects the carousels from the **It Has a Name · Management Made Simple** series, 74 management and leadership topics made simple enough for anyone to understand and apply, no jargon and no loose theory, always with an everyday analogy. Every topic is available in English and in Portuguese.
 
 ## What it is for
 
@@ -204,7 +207,7 @@ Every framework and every test has its own name, and none of them repeats across
 |---|---|---|
 | 01 | People and Leadership | 22 |
 | 02 | Performance, Goals and Metrics | 10 |
-| 03 | Execution and Process | 14 |
+| 03 | Execution and Process | 17 |
 | 04 | Culture and Behavior | 8 |
 | 05 | Communication and Influence | 6 |
 | 06 | The Leader's Time and Focus | 7 |
@@ -311,6 +314,9 @@ Folder names are in Portuguese because the series was born in Portuguese, the in
 | 69 | The Manager's Routine | The Leader's Time and Focus | [PDF](posts/69%20-%20Rotina%20do%20Gestor/EN-GSC-69-ManagersRoutine.pdf) |
 | 70 | Project Approval | Execution and Process | [PDF](posts/70%20-%20Aprovacao%20de%20Projeto/EN-GSC-70-ProjectApproval.pdf) |
 | 71 | Who Gets Into the Meeting | Execution and Process | [PDF](posts/71%20-%20Quem%20Entra%20na%20Reuniao/EN-GSC-71-WhoGetsIntoTheMeeting.pdf) |
+| 72 | Operational Meetings | Execution and Process | [PDF](posts/72%20-%20Reuniao%20Operacional/EN-GSC-72-OperationalMeetings.pdf) |
+| 73 | Tactical Meetings | Execution and Process | [PDF](posts/73%20-%20Reuniao%20Tatica/EN-GSC-73-TacticalMeetings.pdf) |
+| 74 | Strategic Meetings | Execution and Process | [PDF](posts/74%20-%20Reuniao%20Estrategica/EN-GSC-74-StrategicMeetings.pdf) |
 
 ## Author
 

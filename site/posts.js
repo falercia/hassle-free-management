@@ -1491,5 +1491,68 @@ window.POSTS = [
    "GSC-71-QuemEntraNaReuniao.pdf",
    "EN-GSC-71-WhoGetsIntoTheMeeting.pdf"
   ]
+ },
+ {
+  "n": "72",
+  "dir": "72 - Reuniao Operacional",
+  "title": [
+   "Reunião Operacional",
+   "Operational Meetings"
+  ],
+  "territory": 3,
+  "hook": [
+   "Reunião operacional não é relatório. É desbloqueio.",
+   "An operational meeting is not a report. It is an unblocking."
+  ],
+  "about": [
+   "o que a reunião operacional resolve, quem participa e como montar em quinze minutos com o Pit Stop, número, trava, dono e pista, mais o teste do cronômetro. Primeiro de três posts sobre os tipos de reunião.",
+   "what the operational meeting solves, who joins and how to run it in fifteen minutes with the Pit Stop, numbers, blocker, owner and back on track, plus the stopwatch test. First of three posts on the types of meetings."
+  ],
+  "pdf": [
+   "GSC-72-ReuniaoOperacional.pdf",
+   "EN-GSC-72-OperationalMeetings.pdf"
+  ]
+ },
+ {
+  "n": "73",
+  "dir": "73 - Reuniao Tatica",
+  "title": [
+   "Reunião Tática",
+   "Tactical Meetings"
+  ],
+  "territory": 3,
+  "hook": [
+   "Reunião tática não é prestação de contas. É ajuste de rota.",
+   "A tactical meeting is not accountability theater. It is a course correction."
+  ],
+  "about": [
+   "o que a reunião tática resolve, quem participa e como transformar estratégia em plano da semana com o Recálculo, painel, desvio, ajuste e estacionamento, mais o teste do plano igual. Segundo de três posts sobre os tipos de reunião.",
+   "what the tactical meeting solves, who joins and how to turn strategy into this week's plan with the Reroute, dashboard, deviation, adjustment and parking lot, plus the same plan test. Second of three posts on the types of meetings."
+  ],
+  "pdf": [
+   "GSC-73-ReuniaoTatica.pdf",
+   "EN-GSC-73-TacticalMeetings.pdf"
+  ]
+ },
+ {
+  "n": "74",
+  "dir": "74 - Reuniao Estrategica",
+  "title": [
+   "Reunião Estratégica",
+   "Strategic Meetings"
+  ],
+  "territory": 3,
+  "hook": [
+   "Reunião estratégica não é reunião longa. É reunião que escolhe.",
+   "A strategic meeting is not a long meeting. It is a meeting that chooses."
+  ],
+  "about": [
+   "o que a reunião estratégica decide, quem participa e como sair dela com uma escolha usando a Encruzilhada, pergunta, cenário, embate e escolha, mais o teste da manchete. Fecha a série de três posts sobre os tipos de reunião.",
+   "what the strategic meeting decides, who joins and how to leave it with a choice using the Crossroads, question, scenario, clash and choice, plus the headline test. Closes the series of three posts on the types of meetings."
+  ],
+  "pdf": [
+   "GSC-74-ReuniaoEstrategica.pdf",
+   "EN-GSC-74-StrategicMeetings.pdf"
+  ]
  }
 ];
